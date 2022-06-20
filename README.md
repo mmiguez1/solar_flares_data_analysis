@@ -5,3 +5,5 @@ First, I scrape data from SpaceWeatherLive.com and Wind/WAVES type II bursts and
 sets of data as dataframes using Pandas. I then tidy this data by coding missing observations properly, recoding columns that correspond to more 
 than one piece of information, and treating dates and times appropriately. Finally, I provide a data analysis comparing the solar flare data 
 obtained from SpaceWeatherLive.com and NASA.
+
+Read the tutorial [here!](https://mmiguez1.github.io/solar_flares_data_analysis/)
