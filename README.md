@@ -1,4 +1,4 @@
-# Tutorial of Solar Flare Data Analysis
+# Solar Flare Data Analysis Project Tutorial
     
 In this tutorial, I provide a walk-through of how to provide better data about the top 50 solar flares recorded so far than that shown by SpaceWeatherLive.com. 
 First, I scrape data from SpaceWeatherLive.com and Wind/WAVES type II bursts and CMEs using BeautifulSoup. I save both 
